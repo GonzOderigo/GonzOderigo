@@ -16,9 +16,9 @@ Busco mi primer rol en **implementación de software, análisis de datos, QA o s
 
 ## Herramientas
 
-**Datos:** SQL · Power BI · Tableau · Excel
-**Desarrollo:** Python · C# · Kotlin · Git
-**QA y análisis:** casos de uso · historias de usuario · reporte de defectos
-**Otras:** Figma · Supabase · Google Apps Script
+- **Datos:** SQL · Power BI · Tableau · Excel
+- **Desarrollo:** Python · C# · Kotlin · Git
+- **QA y análisis:** casos de uso · historias de usuario · reporte de defectos
+- **Otras:** Figma · Supabase · Google Apps Script
 
 **Inglés:** intermedio, con lectura fluida de documentación técnica
